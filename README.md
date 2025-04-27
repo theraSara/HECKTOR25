@@ -1,2 +1,2 @@
 # HECKTOR25
-at [Grand Challenge](https://grand-challenge.org/)
+at [Grand Challenge](https://hecktor25.grand-challenge.org/)
